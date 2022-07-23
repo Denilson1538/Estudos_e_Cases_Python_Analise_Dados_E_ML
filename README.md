@@ -1,1 +1,1 @@
-# Nesse espaço trago projeto de estudos de dados com Python
+# Nesse espaço disponibilizo meus projeto de estudos de análise de dados com Python
