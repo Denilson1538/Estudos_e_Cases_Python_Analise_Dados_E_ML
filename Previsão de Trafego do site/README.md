@@ -1,1 +1,9 @@
-# Nesse espaço disponibilizo meus projeto de estudos de análise de dados com Python
+Nesse estudo foi possive observar alguns parametro importantes para realizar uma serie temporal
+
+Verificar a sazonalidade
+
+Verificar a tendência
+
+AutoCorrelação
+
+AutoCorrelação Parcial
