@@ -7,3 +7,4 @@ Qual o partido que tem mais gastos
 Qual o parlamentar que mais gastou
 
 E com o que ele gastou 
+
